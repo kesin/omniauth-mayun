@@ -2,6 +2,14 @@
 
 Oauth2 for git.oschina.net
 
+# Sources
+
+Mayun http://git.oschina.net/kesin/omniauth-mayun
+
+Github https://github.com/kesin/omniauth-mayun
+
+RubyGems https://rubygems.org/gems/omniauth-mayun
+
 ## Installation
 
 Add this line to your application's Gemfile:
