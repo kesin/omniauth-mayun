@@ -4,7 +4,7 @@ module OmniAuth
   module Strategies
     class Mayun < OmniAuth::Strategies::OAuth2
       option :client_options, {
-          :site => 'https://git.net',
+          :site => 'http://git.net',
           :authorize_url => '/oauth/authorize',
           :token_url => '/oauth/token',
       }
