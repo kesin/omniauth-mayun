@@ -1,4 +1,4 @@
-# Omniauth::MaYun
+# Omniauth::Mayun
 
 Oauth2 for git.oschina.net
 
