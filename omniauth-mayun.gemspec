@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Omniauth::Mayun::VERSION
   spec.authors       = ["Zoker"]
   spec.email         = ["kaixuanguiqu@gmail.com"]
-  spec.description   = %q{Oauth2 for git.oschina.net}
-  spec.summary       = %q{Oauth2 for git.oschina.net}
+  spec.description   = %q{Oauth2 Gem for git.oschina.net (gitosc git@osc etc..)}
+  spec.summary       = %q{Oauth2 Gem for git.oschina.net  (gitosc git@osc etc..)}
   spec.homepage      = "https://git.oschina.net"
   spec.license       = "MIT"
 
